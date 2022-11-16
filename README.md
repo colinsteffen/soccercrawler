@@ -8,3 +8,4 @@ Das Programm kann über die Kommandozeile gestartet werden. Dazu `java -jar socc
 
 Weitere Informationen zu den Befehlen können mit dem Parameter -h abgefragt werden.
 Beispiel: `java -jar soccercrawler.jar matchday -h`
+Beispiel Matchday Abfrage: `java -jar soccercrawler.jar matchday`
