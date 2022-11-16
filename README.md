@@ -7,5 +7,8 @@ Das Programm kann über die Kommandozeile gestartet werden. Dazu `java -jar socc
 - `results` Abfragen der Daten des letzten Spieltags
 
 Weitere Informationen zu den Befehlen können mit dem Parameter -h abgefragt werden.
-Beispiel: `java -jar soccercrawler.jar matchday -h`
+Beispiel: `java -jar soccercrawler.jar matchday -h` </br>
 Beispiel Matchday Abfrage: `java -jar soccercrawler.jar matchday`
+
+## Download Jar
+<a href="soccercrawler.jar" download>Click to Download</a>
